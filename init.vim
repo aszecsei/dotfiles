@@ -12,6 +12,9 @@ Plug 'racer-rust/vim-racer' " racer autocompletion
 Plug 'Shougo/neco-vim' " vim autocompletion
 Plug 'ryanoasis/vim-devicons' " devicons - this needs NerdIcons installed
 Plug 'mengelbrecht/lightline-bufferline' " show buffers instead of tabs
+" TODO: Put these behind a flag if OCaml is installed
+" Plug 'copy/deoplete-ocaml' " Autocompletion for OCaml with Merlin
+" Plug 'let-def/ocp-indent-vim' " ocp-indent support
 
 call plug#end()
 
@@ -36,6 +39,10 @@ inoremap <expr> <S-Tab> pumvisible() ? "\<C-p>" : "\<S-Tab>"
 
 let g:rustfmt_autosave=1 " automatically format rust code on save
 let g:deoplete#enable_at_startup=1 " use deoplete
+let g:deoplete#complete_method="complete"
+let g:deoplete#ignore_sources = {}
+let g:deoplete#ignore_sources.ocaml = ['buffer', 'around', 'member', 'tag'] " disable other comption sources for ocaml
+let g:deoplete#auto_complete_delay =0 " no delay before completion
 
 set encoding=utf-8 " use utf-8 encoding
 let g:python3_host_prog='C:\python37\python.exe'
@@ -58,3 +65,8 @@ let g:lightline.tabline = {
 let g:lightline.component_expand = {'buffers': 'lightline#bufferline#buffers'}
 let g:lightline.component_type = {'buffers': 'tabsel'}
 let g:lightline#bufferline#filename_modifier=':t'
+
+" OCaml Merlin Setup
+" TODO: Put this behind a flag to check if OCaml is installed
+" let g:opamshare = substitute(system('opam config var share'), '\n$', '', '''')
+" execute "set rtp+=" . g:opamshare . "/merlin/vim"
