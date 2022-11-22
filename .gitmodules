@@ -5,3 +5,6 @@
 [submodule "antigen"]
 	path = antigen
 	url = https://github.com/zsh-users/antigen.git
+[submodule "apps/alacritty/catppuccin"]
+	path = apps/alacritty/catppuccin
+	url = https://github.com/catppuccin/alacritty.git

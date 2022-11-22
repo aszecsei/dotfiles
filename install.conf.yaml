@@ -11,6 +11,8 @@
     ~/.path: shell/.path
     ~/.zshrc: shell/.zshrc
     ~/.config/spaceship.zsh: shell/spaceship.zsh
+    # Apps
+    ~/.config/alacritty: apps/alacritty
     # Linters
     # Git
     ~/.gitconfig: git/.gitconfig
