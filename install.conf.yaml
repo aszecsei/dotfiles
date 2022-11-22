@@ -1,0 +1,24 @@
+- defaults:
+    link:
+      relink: true
+
+- clean: ['~']
+
+- link:
+    # Shell
+    ~/.aliases: shell/.aliases
+    ~/.functions: shell/.functions
+    ~/.path: shell/.path
+    ~/.zshrc: shell/.zshrc
+    ~/.config/spaceship.zsh: shell/spaceship.zsh
+    # Linters
+    # Git
+    ~/.gitconfig: git/.gitconfig
+    # Vim
+    ~/.vim: vim/.vim
+    ~/.vimrc: vim/.vimrc
+    # NeoVim
+    ~/.config/nvim: neovim
+
+- shell:
+  - [git submodule update --init --recursive, Installing submodules]
