@@ -19,6 +19,7 @@ antigen bundle git-flow
 antigen bundle node
 antigen bundle npm
 antigen bundle rust
+antigen bundle go
 
 # Terminal stuff
 antigen bundle catppuccin/zsh-syntax-highlighting --branch=main
