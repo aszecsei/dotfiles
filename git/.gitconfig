@@ -1,2 +1,5 @@
 [init]
 	defaultBranch = main
+[user]
+	email = aszecsei@gmail.com
+	name = Alic Szecsei
