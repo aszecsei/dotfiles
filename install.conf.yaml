@@ -27,6 +27,8 @@
     ~/.vimrc: vim/.vimrc
     # NeoVim
     ~/.config/nvim: neovim
+    # GTK
+    ~/.themes: themes
 
 - shell:
   - [git submodule update --init --recursive, Installing submodules]

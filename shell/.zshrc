@@ -21,6 +21,11 @@ antigen bundle npm
 antigen bundle rust
 antigen bundle go
 
+# NVM bundle
+export NVM_LAZY_LOAD=true
+antigen bundle lukechilds/zsh-nvm
+antigen bundle Sparragus/zsh-auto-nvm-use
+
 # Terminal stuff
 antigen bundle catppuccin/zsh-syntax-highlighting --branch=main
 antigen bundle zsh-users/zsh-syntax-highlighting
@@ -36,3 +41,7 @@ antigen apply
 
 clear
 neofetch
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
