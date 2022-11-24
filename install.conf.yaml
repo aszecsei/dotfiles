@@ -4,6 +4,9 @@
 
 - clean: ['~']
 
+- shell:
+  - [mkdir -p ~/.tmux, Create tmux directory]
+
 - link:
     # Shell
     ~/.aliases: shell/.aliases
@@ -13,6 +16,9 @@
     ~/.config/spaceship.zsh: shell/spaceship.zsh
     # Apps
     ~/.config/alacritty: apps/alacritty
+    # tmux
+    ~/.tmux/plugins: tmux/plugins
+    ~/.tmux.conf: tmux/.tmux.conf
     # Linters
     # Git
     ~/.gitconfig: git/.gitconfig
