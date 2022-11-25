@@ -20,7 +20,7 @@
     ~/.config/zathura/catppuccin-frappe: apps/zathura/zathura/src/catppuccin-frappe
     ~/.config/zathura/zathurarc: apps/zathura/zathurarc
     ~/.config/hexchat: apps/hexchat
-    ~/.config/Element: apps/element
+    ~/.config/Element/config.json: apps/element/config.json
     # tmux
     ~/.tmux/plugins: tmux/plugins
     ~/.tmux.conf: tmux/.tmux.conf
