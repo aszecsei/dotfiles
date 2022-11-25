@@ -24,6 +24,9 @@ require('nvim-treesitter.configs').setup {
     }
 }
 
+-- vimtex
+vim.g.vimtex_view_method = 'zathura'
+
 -- THEME
 require('catppuccin').setup{
     flavour = 'frappe',

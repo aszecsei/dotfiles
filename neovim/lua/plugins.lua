@@ -82,6 +82,9 @@ return require('packer').startup(function(use)
     -- Start screen
     use 'mhinz/vim-startify'
 
+    -- LaTeX
+    use 'lervag/vimtex'
+
     -- Theme
     use { "catppuccin/nvim", as = "catppuccin" }
 

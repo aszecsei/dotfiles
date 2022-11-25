@@ -45,3 +45,8 @@ neofetch
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+# LaTeX Setup
+MANPATH=$MANPATH:/usr/local/texlive/2022/texmf-dist/doc/man
+INFOPATH=$INFOPATH:/usr/local/texlive/2022/texmf-dist/doc/info
+PATH=$PATH:/usr/local/texlive/2022/bin/x86_64-linux
