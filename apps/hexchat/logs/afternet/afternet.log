@@ -1,0 +1,37 @@
+**** BEGIN LOGGING AT Fri Nov 25 14:06:45 2022
+
+Nov 25 14:06:45 *	*** Looking up your hostname
+Nov 25 14:06:45 *	*** Found your hostname
+Nov 25 14:06:45 *	Capabilities supported: account-notify away-notify extended-join multi-prefix sasl userhost-in-names
+Nov 25 14:06:45 *	Capabilities requested: account-notify away-notify extended-join multi-prefix userhost-in-names 
+Nov 25 14:06:46 *	Capabilities acknowledged: account-notify away-notify extended-join multi-prefix userhost-in-names
+Nov 25 14:06:50 *	*** Checking your client version (sorry..)
+Nov 25 14:06:50 *	Received a CTCP VERSION from Saffron.AfterNET.Org
+**** ENDING LOGGING AT Fri Nov 25 14:06:50 2022
+
+**** BEGIN LOGGING AT Fri Nov 25 14:06:50 2022
+
+Nov 25 14:06:50 *	Welcome to the AfterNET IRC Network, crow-maki
+Nov 25 14:06:50 *	Your host is Saffron.AfterNET.Org, running version u2.10.12.14+Nefarious(2.0.0)
+Nov 25 14:06:50 *	This server was created Fri Jun 8 2018 at 08:23:01 PDT
+Nov 25 14:06:50 *	Saffron.AfterNET.Org u2.10.12.14+Nefarious(2.0.0) adgiknoqswxzBDHLNORWX abCcDdhikLlMmNnOopQRrSsTtvZz bhkLlov
+Nov 25 14:06:50 *	WHOX WALLCHOPS WALLHOPS WALLVOICES USERIP CPRIVMSG CNOTICE NAMESX UHNAMES SILENCE=25 WATCH=128 MODES=6 MAXCHANNELS=50 :are supported by this server
+Nov 25 14:06:50 *	MAXBANS=50 NICKLEN=30 MAXNICKLEN=30 TOPICLEN=250 AWAYLEN=250 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=# PREFIX=(ohv)@%+ STATUSMSG=@%+ CHANMODES=be,k,Ll,aCcDdiMmNnOpQRrSsTtZz CASEMAPPING=rfc1459 :are supported by this server
+Nov 25 14:06:50 *	NETWORK=AfterNET MAXLIST=b:50,e:45 ELIST=CT EXCEPTS=e MAXEXCEPTS=45 EXTBANS=~,acjnqrmM :are supported by this server
+Nov 25 14:06:50 *	You are connected to Saffron.AfterNET.Org with TLSv1.2-AES256-GCM-SHA384-256bits
+Nov 25 14:06:50 *	There are 230 users and 163 invisible on 10 servers
+Nov 25 14:06:50 *	22 :operator(s) online
+Nov 25 14:06:50 *	201 :channels formed
+Nov 25 14:06:50 *	I have 41 clients and 1 servers
+Nov 25 14:06:50 *	Current local users: 41 Max: 495
+Nov 25 14:06:50 *	Current global users: 393 Max: 1579
+Nov 25 14:06:50 *	Highest connection count: 46 (45 clients)
+Nov 25 14:06:50 *	- Saffron.AfterNET.Org Message of the Day - 
+Nov 25 14:06:50 *	See http://www.afternet.org for information about this network.
+Nov 25 14:06:50 *	Type /MOTD to read the AUP before continuing using this service.
+Nov 25 14:06:50 *	The message of the day was last changed: 2010-2-17 22:2
+Nov 25 14:06:50 *	End of /MOTD command.
+Nov 25 14:06:50 *	on 1 ca 1(6) ft 10(10)
+Nov 25 14:06:50 *	AN-7E3ED6FE.hsd1.wa.comcast.net :is now your hidden host
+Nov 25 14:06:50 *	crow-maki sets mode +x on crow-maki
+Nov 25 14:06:50 *	crow-maki sets mode +z on crow-maki

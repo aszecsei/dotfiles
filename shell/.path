@@ -1,1 +1,2 @@
 PATH=${PATH}:~/.cargo/bin
+PATH=$PATH:/home/aszecsei/.local/bin

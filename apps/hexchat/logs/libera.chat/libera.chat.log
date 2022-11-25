@@ -1,0 +1,320 @@
+**** BEGIN LOGGING AT Fri Nov 25 01:46:46 2022
+
+Nov 25 01:46:46 *	*** Checking Ident
+Nov 25 01:46:46 *	*** Looking up your hostname...
+Nov 25 01:46:47 *	*** Found your hostname: c-76-121-92-74.hsd1.wa.comcast.net
+Nov 25 01:46:53 *	*** No Ident response
+Nov 25 01:46:53 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 25 01:46:53 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 25 01:46:53 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix account-tag cap-notify server-time solanum.chat/identify-msg
+**** ENDING LOGGING AT Fri Nov 25 01:46:53 2022
+
+**** BEGIN LOGGING AT Fri Nov 25 01:46:53 2022
+
+Nov 25 01:46:53 *	Welcome to the Libera.Chat Internet Relay Chat Network crow-maki
+Nov 25 01:46:53 *	Your host is lithium.libera.chat[176.58.122.119/6697], running version solanum-1.0-dev
+Nov 25 01:46:53 *	This server was created Thu Nov 24 2022 at 07:49:20 UTC
+Nov 25 01:46:53 *	lithium.libera.chat solanum-1.0-dev DGMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 25 01:46:53 *	SAFELIST ELIST=CMNTU KNOCK MONITOR=100 CALLERID=g ETRACE FNC WHOX CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz :are supported by this server
+Nov 25 01:46:53 *	CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D :are supported by this server
+Nov 25 01:46:53 *	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz :are supported by this server
+Nov 25 01:46:53 *	There are 65 users and 43212 invisible on 28 servers
+Nov 25 01:46:53 *	35 :IRC Operators online
+Nov 25 01:46:53 *	140 :unknown connection(s)
+Nov 25 01:46:53 *	22887 :channels formed
+Nov 25 01:46:53 *	I have 1759 clients and 1 servers
+Nov 25 01:46:53 *	1759 1763 :Current local users 1759, max 1763
+Nov 25 01:46:53 *	43277 43725 :Current global users 43277, max 43725
+Nov 25 01:46:53 *	Highest connection count: 1764 (1763 clients) (11132 connections received)
+Nov 25 01:46:53 *	- lithium.libera.chat Message of the Day - 
+Nov 25 01:46:53 *	- Welcome to Libera Chat, the IRC network for
+Nov 25 01:46:53 *	- free & open-source software and peer directed projects.
+Nov 25 01:46:53 *	-  
+Nov 25 01:46:53 *	- Use of Libera Chat is governed by our network policies.
+Nov 25 01:46:53 *	-  
+Nov 25 01:46:53 *	- To reduce network abuses we perform open proxy checks
+Nov 25 01:46:53 *	- on hosts at connection time.
+Nov 25 01:46:53 *	-  
+Nov 25 01:46:53 *	- Please visit us in #libera for questions and support.
+Nov 25 01:46:53 *	-  
+Nov 25 01:46:53 *	- Website and documentation:  https://libera.chat
+Nov 25 01:46:53 *	- Webchat:                    https://web.libera.chat
+Nov 25 01:46:53 *	- Network policies:           https://libera.chat/policies
+Nov 25 01:46:53 *	- Email:                      support@libera.chat
+Nov 25 01:46:53 *	End of /MOTD command.
+Nov 25 01:46:53 *	crow-maki sets mode +Z on crow-maki
+Nov 25 01:46:53 *	crow-maki sets mode +i on crow-maki
+Nov 25 01:46:53 *	crow-maki sets mode +w on crow-maki
+Nov 25 01:46:53 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ IDENTIFY crow-maki <password>
+Nov 25 01:46:59 -NickServ-	You are now identified for crow-maki.
+Nov 25 01:46:59 -NickServ-	Last login from: ~crow___ma@c-76-121-92-74.hsd1.wa.comcast.net on Nov 25 09:37:46 2022 +0000.
+**** ENDING LOGGING AT Fri Nov 25 02:02:24 2022
+
+**** BEGIN LOGGING AT Fri Nov 25 02:02:24 2022
+
+Nov 25 02:08:28 Perl interface unloaded
+Nov 25 02:08:28 Sysinfo plugin unloaded
+Nov 25 02:08:28 Checksum plugin unloaded
+**** ENDING LOGGING AT Fri Nov 25 02:08:28 2022
+
+**** BEGIN LOGGING AT Fri Nov 25 02:14:12 2022
+
+Nov 25 02:14:12 *	Welcome to the Libera.Chat Internet Relay Chat Network crow-maki
+Nov 25 02:14:12 *	Your host is lithium.libera.chat[176.58.122.119/6697], running version solanum-1.0-dev
+Nov 25 02:14:12 *	This server was created Thu Nov 24 2022 at 07:49:20 UTC
+Nov 25 02:14:12 *	lithium.libera.chat solanum-1.0-dev DGMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 25 02:14:12 *	SAFELIST ELIST=CMNTU KNOCK MONITOR=100 CALLERID=g ETRACE FNC WHOX CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz :are supported by this server
+Nov 25 02:14:12 *	CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D :are supported by this server
+Nov 25 02:14:12 *	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz :are supported by this server
+Nov 25 02:14:12 *	There are 65 users and 43218 invisible on 28 servers
+Nov 25 02:14:12 *	35 :IRC Operators online
+Nov 25 02:14:12 *	159 :unknown connection(s)
+Nov 25 02:14:12 *	22919 :channels formed
+Nov 25 02:14:12 *	I have 1777 clients and 1 servers
+Nov 25 02:14:12 *	1777 1790 :Current local users 1777, max 1790
+Nov 25 02:14:12 *	43283 43725 :Current global users 43283, max 43725
+Nov 25 02:14:12 *	Highest connection count: 1791 (1790 clients) (11376 connections received)
+Nov 25 02:14:12 *	- lithium.libera.chat Message of the Day - 
+Nov 25 02:14:12 *	- Welcome to Libera Chat, the IRC network for
+Nov 25 02:14:12 *	- free & open-source software and peer directed projects.
+Nov 25 02:14:12 *	-  
+Nov 25 02:14:12 *	- Use of Libera Chat is governed by our network policies.
+Nov 25 02:14:12 *	-  
+Nov 25 02:14:12 *	- To reduce network abuses we perform open proxy checks
+Nov 25 02:14:12 *	- on hosts at connection time.
+Nov 25 02:14:12 *	-  
+Nov 25 02:14:12 *	- Please visit us in #libera for questions and support.
+Nov 25 02:14:12 *	-  
+Nov 25 02:14:12 *	- Website and documentation:  https://libera.chat
+Nov 25 02:14:12 *	- Webchat:                    https://web.libera.chat
+Nov 25 02:14:12 *	- Network policies:           https://libera.chat/policies
+Nov 25 02:14:12 *	- Email:                      support@libera.chat
+Nov 25 02:14:12 *	End of /MOTD command.
+Nov 25 02:14:12 *	crow-maki sets mode +Z on crow-maki
+Nov 25 02:14:12 *	crow-maki sets mode +i on crow-maki
+Nov 25 02:14:12 *	crow-maki sets mode +w on crow-maki
+Nov 25 02:14:12 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ IDENTIFY crow-maki <password>
+Nov 25 02:14:18 -NickServ-	You are now identified for crow-maki.
+Nov 25 02:14:18 -NickServ-	Last login from: ~crow___ma@c-76-121-92-74.hsd1.wa.comcast.net on Nov 25 10:08:28 2022 +0000.
+Nov 25 02:15:56 Perl interface unloaded
+Nov 25 02:15:56 Sysinfo plugin unloaded
+Nov 25 02:15:56 FiSHLiM plugin unloaded
+Nov 25 02:15:56 Checksum plugin unloaded
+**** ENDING LOGGING AT Fri Nov 25 02:15:56 2022
+
+**** BEGIN LOGGING AT Fri Nov 25 02:16:23 2022
+
+Nov 25 02:16:23 *	Welcome to the Libera.Chat Internet Relay Chat Network crow-maki
+Nov 25 02:16:23 *	Your host is lithium.libera.chat[176.58.122.119/6697], running version solanum-1.0-dev
+Nov 25 02:16:23 *	This server was created Thu Nov 24 2022 at 07:49:20 UTC
+Nov 25 02:16:23 *	lithium.libera.chat solanum-1.0-dev DGMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 25 02:16:23 *	SAFELIST ELIST=CMNTU KNOCK MONITOR=100 CALLERID=g ETRACE FNC WHOX CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz :are supported by this server
+Nov 25 02:16:23 *	CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D :are supported by this server
+Nov 25 02:16:23 *	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz :are supported by this server
+Nov 25 02:16:23 *	There are 65 users and 43221 invisible on 28 servers
+Nov 25 02:16:23 *	35 :IRC Operators online
+Nov 25 02:16:23 *	160 :unknown connection(s)
+Nov 25 02:16:23 *	22918 :channels formed
+Nov 25 02:16:23 *	I have 1778 clients and 1 servers
+Nov 25 02:16:23 *	1778 1790 :Current local users 1778, max 1790
+Nov 25 02:16:23 *	43286 43725 :Current global users 43286, max 43725
+Nov 25 02:16:23 *	Highest connection count: 1791 (1790 clients) (11395 connections received)
+Nov 25 02:16:23 *	- lithium.libera.chat Message of the Day - 
+Nov 25 02:16:23 *	- Welcome to Libera Chat, the IRC network for
+Nov 25 02:16:23 *	- free & open-source software and peer directed projects.
+Nov 25 02:16:23 *	-  
+Nov 25 02:16:23 *	- Use of Libera Chat is governed by our network policies.
+Nov 25 02:16:23 *	-  
+Nov 25 02:16:23 *	- To reduce network abuses we perform open proxy checks
+Nov 25 02:16:23 *	- on hosts at connection time.
+Nov 25 02:16:23 *	-  
+Nov 25 02:16:23 *	- Please visit us in #libera for questions and support.
+Nov 25 02:16:23 *	-  
+Nov 25 02:16:23 *	- Website and documentation:  https://libera.chat
+Nov 25 02:16:23 *	- Webchat:                    https://web.libera.chat
+Nov 25 02:16:23 *	- Network policies:           https://libera.chat/policies
+Nov 25 02:16:23 *	- Email:                      support@libera.chat
+Nov 25 02:16:23 *	End of /MOTD command.
+Nov 25 02:16:23 *	crow-maki sets mode +Z on crow-maki
+Nov 25 02:16:23 *	crow-maki sets mode +i on crow-maki
+Nov 25 02:16:23 *	crow-maki sets mode +w on crow-maki
+Nov 25 02:16:23 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ IDENTIFY crow-maki <password>
+Nov 25 02:16:29 -NickServ-	You are now identified for crow-maki.
+Nov 25 02:16:29 -NickServ-	Last login from: ~crow___ma@c-76-121-92-74.hsd1.wa.comcast.net on Nov 25 10:15:56 2022 +0000.
+Nov 25 02:16:41 Perl interface unloaded
+Nov 25 02:16:41 Sysinfo plugin unloaded
+Nov 25 02:16:41 FiSHLiM plugin unloaded
+Nov 25 02:16:41 Checksum plugin unloaded
+**** ENDING LOGGING AT Fri Nov 25 02:16:41 2022
+
+**** BEGIN LOGGING AT Fri Nov 25 02:17:03 2022
+
+Nov 25 02:17:03 *	Welcome to the Libera.Chat Internet Relay Chat Network crow-maki
+Nov 25 02:17:03 *	Your host is erbium.libera.chat[82.96.96.60/6697], running version solanum-1.0-dev
+Nov 25 02:17:03 *	This server was created Wed Nov 23 2022 at 03:29:54 UTC
+Nov 25 02:17:03 *	erbium.libera.chat solanum-1.0-dev DGMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 25 02:17:03 *	SAFELIST ELIST=CMNTU MONITOR=100 FNC WHOX ETRACE KNOCK CALLERID=g CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz :are supported by this server
+Nov 25 02:17:03 *	CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D :are supported by this server
+Nov 25 02:17:03 *	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz :are supported by this server
+Nov 25 02:17:03 *	There are 65 users and 43220 invisible on 28 servers
+Nov 25 02:17:03 *	35 :IRC Operators online
+Nov 25 02:17:03 *	182 :unknown connection(s)
+Nov 25 02:17:03 *	22917 :channels formed
+Nov 25 02:17:03 *	I have 2385 clients and 1 servers
+Nov 25 02:17:03 *	2385 2714 :Current local users 2385, max 2714
+Nov 25 02:17:03 *	43285 43754 :Current global users 43285, max 43754
+Nov 25 02:17:03 *	Highest connection count: 2715 (2714 clients) (26285 connections received)
+Nov 25 02:17:03 *	- erbium.libera.chat Message of the Day - 
+Nov 25 02:17:03 *	- Welcome to Libera Chat, the IRC network for
+Nov 25 02:17:03 *	- free & open-source software and peer directed projects.
+Nov 25 02:17:03 *	-  
+Nov 25 02:17:03 *	- Use of Libera Chat is governed by our network policies.
+Nov 25 02:17:03 *	-  
+Nov 25 02:17:03 *	- To reduce network abuses we perform open proxy checks
+Nov 25 02:17:03 *	- on hosts at connection time.
+Nov 25 02:17:03 *	-  
+Nov 25 02:17:03 *	- Please visit us in #libera for questions and support.
+Nov 25 02:17:03 *	-  
+Nov 25 02:17:03 *	- Website and documentation:  https://libera.chat
+Nov 25 02:17:03 *	- Webchat:                    https://web.libera.chat
+Nov 25 02:17:03 *	- Network policies:           https://libera.chat/policies
+Nov 25 02:17:03 *	- Email:                      support@libera.chat
+Nov 25 02:17:03 *	End of /MOTD command.
+Nov 25 02:17:03 *	crow-maki sets mode +Z on crow-maki
+Nov 25 02:17:03 *	crow-maki sets mode +i on crow-maki
+Nov 25 02:17:03 *	crow-maki sets mode +w on crow-maki
+Nov 25 02:17:03 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ IDENTIFY crow-maki <password>
+Nov 25 02:17:10 -NickServ-	You are now identified for crow-maki.
+Nov 25 02:17:10 -NickServ-	Last login from: ~crow___ma@c-76-121-92-74.hsd1.wa.comcast.net on Nov 25 10:16:41 2022 +0000.
+Nov 25 02:17:18 Perl interface unloaded
+Nov 25 02:17:18 Sysinfo plugin unloaded
+Nov 25 02:17:18 FiSHLiM plugin unloaded
+Nov 25 02:17:18 Checksum plugin unloaded
+**** ENDING LOGGING AT Fri Nov 25 02:17:18 2022
+
+**** BEGIN LOGGING AT Fri Nov 25 02:17:37 2022
+
+Nov 25 02:17:37 *	Welcome to the Libera.Chat Internet Relay Chat Network crow-maki
+Nov 25 02:17:37 *	Your host is erbium.libera.chat[82.96.96.60/6697], running version solanum-1.0-dev
+Nov 25 02:17:37 *	This server was created Wed Nov 23 2022 at 03:29:54 UTC
+Nov 25 02:17:37 *	erbium.libera.chat solanum-1.0-dev DGMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 25 02:17:37 *	SAFELIST ELIST=CMNTU MONITOR=100 FNC WHOX ETRACE KNOCK CALLERID=g CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz :are supported by this server
+Nov 25 02:17:37 *	CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D :are supported by this server
+Nov 25 02:17:37 *	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz :are supported by this server
+Nov 25 02:17:37 *	There are 65 users and 43231 invisible on 28 servers
+Nov 25 02:17:37 *	35 :IRC Operators online
+Nov 25 02:17:37 *	194 :unknown connection(s)
+Nov 25 02:17:37 *	22918 :channels formed
+Nov 25 02:17:37 *	I have 2390 clients and 1 servers
+Nov 25 02:17:37 *	2390 2714 :Current local users 2390, max 2714
+Nov 25 02:17:37 *	43296 43754 :Current global users 43296, max 43754
+Nov 25 02:17:37 *	Highest connection count: 2715 (2714 clients) (26291 connections received)
+Nov 25 02:17:37 *	- erbium.libera.chat Message of the Day - 
+Nov 25 02:17:37 *	- Welcome to Libera Chat, the IRC network for
+Nov 25 02:17:37 *	- free & open-source software and peer directed projects.
+Nov 25 02:17:37 *	-  
+Nov 25 02:17:37 *	- Use of Libera Chat is governed by our network policies.
+Nov 25 02:17:37 *	-  
+Nov 25 02:17:37 *	- To reduce network abuses we perform open proxy checks
+Nov 25 02:17:37 *	- on hosts at connection time.
+Nov 25 02:17:37 *	-  
+Nov 25 02:17:37 *	- Please visit us in #libera for questions and support.
+Nov 25 02:17:37 *	-  
+Nov 25 02:17:37 *	- Website and documentation:  https://libera.chat
+Nov 25 02:17:37 *	- Webchat:                    https://web.libera.chat
+Nov 25 02:17:37 *	- Network policies:           https://libera.chat/policies
+Nov 25 02:17:37 *	- Email:                      support@libera.chat
+Nov 25 02:17:37 *	End of /MOTD command.
+Nov 25 02:17:37 *	crow-maki sets mode +Z on crow-maki
+Nov 25 02:17:37 *	crow-maki sets mode +i on crow-maki
+Nov 25 02:17:37 *	crow-maki sets mode +w on crow-maki
+Nov 25 02:17:37 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ IDENTIFY crow-maki <password>
+Nov 25 02:17:44 -NickServ-	You are now identified for crow-maki.
+Nov 25 02:17:44 -NickServ-	Last login from: ~crow___ma@c-76-121-92-74.hsd1.wa.comcast.net on Nov 25 10:17:18 2022 +0000.
+Nov 25 02:58:14 Perl interface unloaded
+Nov 25 02:58:14 Sysinfo plugin unloaded
+Nov 25 02:58:14 FiSHLiM plugin unloaded
+Nov 25 02:58:14 Checksum plugin unloaded
+**** ENDING LOGGING AT Fri Nov 25 02:58:14 2022
+
+**** BEGIN LOGGING AT Fri Nov 25 02:58:33 2022
+
+Nov 25 02:58:33 *	Welcome to the Libera.Chat Internet Relay Chat Network crow-maki
+Nov 25 02:58:33 *	Your host is lithium.libera.chat[176.58.122.119/6697], running version solanum-1.0-dev
+Nov 25 02:58:33 *	This server was created Thu Nov 24 2022 at 07:49:20 UTC
+Nov 25 02:58:33 *	lithium.libera.chat solanum-1.0-dev DGMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 25 02:58:33 *	SAFELIST ELIST=CMNTU KNOCK MONITOR=100 CALLERID=g ETRACE FNC WHOX CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz :are supported by this server
+Nov 25 02:58:33 *	CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D :are supported by this server
+Nov 25 02:58:33 *	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz :are supported by this server
+Nov 25 02:58:33 *	There are 65 users and 43255 invisible on 28 servers
+Nov 25 02:58:33 *	35 :IRC Operators online
+Nov 25 02:58:33 *	125 :unknown connection(s)
+Nov 25 02:58:33 *	22883 :channels formed
+Nov 25 02:58:33 *	I have 1807 clients and 1 servers
+Nov 25 02:58:33 *	1807 1808 :Current local users 1807, max 1808
+Nov 25 02:58:33 *	43320 43725 :Current global users 43320, max 43725
+Nov 25 02:58:33 *	Highest connection count: 1809 (1808 clients) (11723 connections received)
+Nov 25 02:58:33 *	- lithium.libera.chat Message of the Day - 
+Nov 25 02:58:33 *	- Welcome to Libera Chat, the IRC network for
+Nov 25 02:58:33 *	- free & open-source software and peer directed projects.
+Nov 25 02:58:33 *	-  
+Nov 25 02:58:33 *	- Use of Libera Chat is governed by our network policies.
+Nov 25 02:58:33 *	-  
+Nov 25 02:58:33 *	- To reduce network abuses we perform open proxy checks
+Nov 25 02:58:33 *	- on hosts at connection time.
+Nov 25 02:58:33 *	-  
+Nov 25 02:58:33 *	- Please visit us in #libera for questions and support.
+Nov 25 02:58:33 *	-  
+Nov 25 02:58:33 *	- Website and documentation:  https://libera.chat
+Nov 25 02:58:33 *	- Webchat:                    https://web.libera.chat
+Nov 25 02:58:33 *	- Network policies:           https://libera.chat/policies
+Nov 25 02:58:33 *	- Email:                      support@libera.chat
+Nov 25 02:58:33 *	End of /MOTD command.
+Nov 25 02:58:33 *	crow-maki sets mode +Z on crow-maki
+Nov 25 02:58:33 *	crow-maki sets mode +i on crow-maki
+Nov 25 02:58:33 *	crow-maki sets mode +w on crow-maki
+Nov 25 02:58:33 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ IDENTIFY crow-maki <password>
+Nov 25 02:58:39 -NickServ-	You are now identified for crow-maki.
+Nov 25 02:58:39 -NickServ-	Last login from: ~crow___ma@c-76-121-92-74.hsd1.wa.comcast.net on Nov 25 10:58:14 2022 +0000.
+Nov 25 02:59:36 Perl interface unloaded
+Nov 25 02:59:36 Sysinfo plugin unloaded
+Nov 25 02:59:36 Checksum plugin unloaded
+**** ENDING LOGGING AT Fri Nov 25 02:59:36 2022
+
+**** BEGIN LOGGING AT Fri Nov 25 14:03:38 2022
+
+Nov 25 14:03:38 *	Welcome to the Libera.Chat Internet Relay Chat Network crow-maki
+Nov 25 14:03:38 *	Your host is lead.libera.chat[94.125.182.252/6697], running version solanum-1.0-dev
+Nov 25 14:03:38 *	This server was created Thu Nov 24 2022 at 07:37:25 UTC
+Nov 25 14:03:38 *	lead.libera.chat solanum-1.0-dev DGMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 25 14:03:38 *	FNC WHOX CALLERID=g ETRACE MONITOR=100 KNOCK SAFELIST ELIST=CMNTU CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz :are supported by this server
+Nov 25 14:03:38 *	CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D :are supported by this server
+Nov 25 14:03:38 *	TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz :are supported by this server
+Nov 25 14:03:38 *	There are 64 users and 43017 invisible on 28 servers
+Nov 25 14:03:38 *	35 :IRC Operators online
+Nov 25 14:03:38 *	95 :unknown connection(s)
+Nov 25 14:03:38 *	22816 :channels formed
+Nov 25 14:03:38 *	I have 1965 clients and 1 servers
+Nov 25 14:03:38 *	1965 2118 :Current local users 1965, max 2118
+Nov 25 14:03:38 *	43081 43725 :Current global users 43081, max 43725
+Nov 25 14:03:38 *	Highest connection count: 2119 (2118 clients) (22205 connections received)
+Nov 25 14:03:38 *	- lead.libera.chat Message of the Day - 
+Nov 25 14:03:38 *	- Welcome to Libera Chat, the IRC network for
+Nov 25 14:03:38 *	- free & open-source software and peer directed projects.
+Nov 25 14:03:38 *	-  
+Nov 25 14:03:38 *	- Use of Libera Chat is governed by our network policies.
+Nov 25 14:03:38 *	-  
+Nov 25 14:03:38 *	- To reduce network abuses we perform open proxy checks
+Nov 25 14:03:38 *	- on hosts at connection time.
+Nov 25 14:03:38 *	-  
+Nov 25 14:03:38 *	- Please visit us in #libera for questions and support.
+Nov 25 14:03:38 *	-  
+Nov 25 14:03:38 *	- Website and documentation:  https://libera.chat
+Nov 25 14:03:38 *	- Webchat:                    https://web.libera.chat
+Nov 25 14:03:38 *	- Network policies:           https://libera.chat/policies
+Nov 25 14:03:38 *	- Email:                      support@libera.chat
+Nov 25 14:03:38 *	End of /MOTD command.
+Nov 25 14:03:38 *	crow-maki sets mode +Z on crow-maki
+Nov 25 14:03:38 *	crow-maki sets mode +i on crow-maki
+Nov 25 14:03:38 *	crow-maki sets mode +w on crow-maki
+Nov 25 14:03:38 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ IDENTIFY crow-maki <password>

@@ -19,6 +19,8 @@
     ~/.config/alacritty: apps/alacritty
     ~/.config/zathura/catppuccin-frappe: apps/zathura/zathura/src/catppuccin-frappe
     ~/.config/zathura/zathurarc: apps/zathura/zathurarc
+    ~/.config/hexchat: apps/hexchat
+    ~/.config/Element: apps/element
     # tmux
     ~/.tmux/plugins: tmux/plugins
     ~/.tmux.conf: tmux/.tmux.conf

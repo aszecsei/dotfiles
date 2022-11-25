@@ -1,0 +1,26 @@
+T 1669370103 19*	Now talking on 22##rust
+T 1669370103 22*	Topic for 22##rust is: Unofficial channel for the Rust programming language | Don't ask to ask, just ask! | Code of conduct: https://rust-lang.org/policies/code-of-conduct | Playground: https://play.rust-lang.org | evalr2: «code» to run Rust code | Other chat/help venues: https://rust-lang.org/community
+T 1669370103 22*	Topic for 22##rust set by 26lambda (24Wed May 18 12:14:25 2022)
+T 1669370272 23*	cotko (~cotko@89-212-138-82.static.t-2.net23) has joined
+T 1669370369 18<rendar18>	i have reduced all my life's problems to one single Rust error: async fn run<T>(&self mut, listener: T) { tokio::select!( listener.accept() -> type T hasn't any accept() function, now.. what is the best way to proceed here? can i tell rust with a 'where' that T could be only TcpListener or UnixListener (which both implements accept()) or in such cases I must only passes traits?
+T 1669370399 18<j`ey18>	only traits
+T 1669370420 18<rendar18>	fine
+T 1669370514 18<rendar18>	the thing, i'm finding a little bit of difficult navigating rust docs, if i try to find 'accept' in here https://docs.rs/tokio/0.1.22/tokio/net/struct.TcpListener.html?search=accept -- i get only `poll_accept[_std]`
+T 1669370642 18<j`ey18>	are you using version 0.1.22 in your code?
+T 1669370908 FiSHLiM plugin unloaded
+T 1669373948 19*	Now talking on 22##rust
+T 1669373948 22*	Topic for 22##rust is: Unofficial channel for the Rust programming language | Don't ask to ask, just ask! | Code of conduct: https://rust-lang.org/policies/code-of-conduct | Playground: https://play.rust-lang.org | evalr2: «code» to run Rust code | Other chat/help venues: https://rust-lang.org/community
+T 1669373948 22*	Topic for 22##rust set by 26lambda (24Wed May 18 12:14:25 2022)
+T 1669373976 FiSHLiM plugin unloaded
+T 1669413824 19*	Now talking on 22##rust
+T 1669413824 22*	Topic for 22##rust is: Unofficial channel for the Rust programming language | Don't ask to ask, just ask! | Code of conduct: https://rust-lang.org/policies/code-of-conduct | Playground: https://play.rust-lang.org | evalr2: «code» to run Rust code | Other chat/help venues: https://rust-lang.org/community
+T 1669413824 22*	Topic for 22##rust set by 26lambda (24Wed May 18 12:14:25 2022)
+T 1669413824 -18NickServ-	You are now identified for crow-maki.
+T 1669413824 -18NickServ-	Last login from: ~crow___ma@c-76-121-92-74.hsd1.wa.comcast.net on Nov 25 10:59:36 2022 +0000.
+T 1669413926 24*	palmer_stigmata has quit (Remote host closed the connection)
+T 1669413960 24*	holgersson has quit (Quit: “Format C:........[Done]“)
+T 1669413978 24*	o_caino has quit (Remote host closed the connection)
+T 1669413998 24*	gxt has quit (Ping timeout: 255 seconds)
+T 1669414041 24*	joev has quit (Ping timeout: 265 seconds)
+T 1669414066 23*	joev (~joev@user/joev23) has joined
+T 1669414130 23*	gxt (~gxt@gateway/tor-sasl/gxt23) has joined

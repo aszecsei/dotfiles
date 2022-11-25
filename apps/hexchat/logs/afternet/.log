@@ -1,0 +1,22 @@
+**** BEGIN LOGGING AT Fri Nov 25 14:06:44 2022
+
+Nov 25 14:06:44 *	Connecting to irc.afternet.org (50.116.5.215:6697)
+Nov 25 14:06:45 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 25 14:06:45 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 25 14:06:45 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 25 14:06:45 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 25 14:06:45 *	* Subject: /CN=saffron.afternet.org
+Nov 25 14:06:45 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 25 14:06:45 *	* Certification info:
+Nov 25 14:06:45 *	  Subject:
+Nov 25 14:06:45 *	    CN=saffron.afternet.org
+Nov 25 14:06:45 *	  Issuer:
+Nov 25 14:06:45 *	    C=US
+Nov 25 14:06:45 *	    O=Let's Encrypt
+Nov 25 14:06:45 *	    CN=R3
+Nov 25 14:06:45 *	  Public key algorithm: rsaEncryption (2048 bits)
+Nov 25 14:06:45 *	  Sign algorithm sha256WithRSAEncryption
+Nov 25 14:06:45 *	  Valid since Oct 26 14:02:31 2022 GM to Jan 24 14:02:30 2023 GM
+Nov 25 14:06:45 *	* Cipher info:
+Nov 25 14:06:45 *	  Version: TLSv1.2, cipher AES256-GCM-SHA384 (256 bits)
+Nov 25 14:06:45 *	Connected. Now logging in.
