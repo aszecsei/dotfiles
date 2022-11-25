@@ -6,6 +6,7 @@
 
 - shell:
   - [mkdir -p ~/.tmux, Create tmux directory]
+  - [mkdir -p ~/.config/zathura, Create zathura config directory]
 
 - link:
     # Shell
@@ -16,6 +17,8 @@
     ~/.config/spaceship.zsh: shell/spaceship.zsh
     # Apps
     ~/.config/alacritty: apps/alacritty
+    ~/.config/zathura/catppuccin-frappe: apps/zathura/zathura/src/catppuccin-frappe
+    ~/.config/zathura/zathurarc: apps/zathura/zathurarc
     # tmux
     ~/.tmux/plugins: tmux/plugins
     ~/.tmux.conf: tmux/.tmux.conf

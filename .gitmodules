@@ -11,3 +11,6 @@
 [submodule "tmux/plugins/tpm"]
 	path = tmux/plugins/tpm
 	url = https://github.com/tmux-plugins/tpm
+[submodule "apps/zathura/zathura"]
+	path = apps/zathura/zathura
+	url = https://github.com/catppuccin/zathura.git
