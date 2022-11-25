@@ -1,3 +1,5 @@
 .vscode
 neovim/plugin/packer_compiled.lua
 tmux/plugins
+apps/hexchat/logs
+apps/hexchat/scrollback

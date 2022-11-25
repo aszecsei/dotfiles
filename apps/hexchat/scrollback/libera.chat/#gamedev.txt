@@ -1,3 +1,0 @@
-T 1669369966 19*	Now talking on 22#gamedev
-T 1669369966 22*	Topic for 22#gamedev is: Welcome to #gamedev. | Offtopic? #indiedevs | /msg Cahaan to add your gamedev-related !project (devlogs/screenshots/itch/steam/...) to gamedevbot and get +v
-T 1669369966 22*	Topic for 22#gamedev set by 26carefish (24Fri Oct 21 13:34:07 2022)

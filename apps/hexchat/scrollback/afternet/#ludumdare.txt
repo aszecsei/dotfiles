@@ -1,3 +1,0 @@
-T 1669414010 19*	Now talking on 22#ludumdare
-T 1669414010 22*	Topic for 22#ludumdare is: Welcome to Ludum Dare 51! | 30th Sep - 3rd Oct | https://ldjam.com | Theme : Every 10 seconds
-T 1669414010 22*	Topic for 22#ludumdare set by 26sorceress!sorceress@sorceress.Users.AfterNET.Org (24Sat Oct  1 04:03:07 2022)
