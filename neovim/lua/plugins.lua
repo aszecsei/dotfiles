@@ -79,6 +79,13 @@ return require('packer').startup(function(use)
         requires = 'kyazdani42/nvim-web-devicons'
     }
 
+    -- Tab line
+    use 'nvim-tree/nvim-web-devicons'
+    use {
+        'romgrk/barbar.nvim',
+        wants = 'nvim-web-devicons'
+    }
+
     -- Start screen
     use 'mhinz/vim-startify'
 
@@ -87,6 +94,12 @@ return require('packer').startup(function(use)
 
     -- Theme
     use { "catppuccin/nvim", as = "catppuccin" }
+
+    -- Error reporting
+    use {
+        "folke/trouble.nvim",
+        requires = "kyazdani42/nvim-web-devicons",
+    }
 
     -- Automatically set up your configuration after cloning packer.nvim
     -- Put this at the end after all plugins

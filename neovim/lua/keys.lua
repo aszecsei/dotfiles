@@ -27,3 +27,15 @@ map("n", "<Leader>vsd", "<cmd>lua vim.lsp.diagnostic.show_line_diagnostics()<CR>
 map("n", "<Leader>vn", "<cmd>lua vim.lsp.diagnostic.goto_next()<CR>", default_opts)
 map("n", "<Leader>vp", "<cmd>lua vim.lsp.diagnostic.goto_prev()<CR>", default_opts)
 map("n", "<Leader>vf", "<cmd>Format<CR>", default_opts)
+
+-- barbar
+map('n', '<C-,>', '<Cmd>BufferPrevious<CR>', default_opts)
+map('n', '<C-.>', '<Cmd>BufferNext<CR>', default_opts)
+
+-- Trouble
+map('n', '<Leader>xx', '<cmd>TroubleToggle<cr>', default_opts)
+map('n', '<Leader>xw', '<cmd>TroubleToggle workspace_diagnostics<cr>', default_opts)
+map('n', '<Leader>xd', '<cmd>TroubleToggle document_diagnostics<cr>', default_opts)
+map('n', '<Leader>xl', '<cmd>TroubleToggle loclist<cr>', default_opts)
+map('n', '<Leader>xq', '<cmd>TroubleToggle quickfix<cr>', default_opts)
+map('n', 'gR', '<cmd>TroubleToggle lsp_references<cr>', default_opts)
