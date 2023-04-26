@@ -1,5 +1,5 @@
 # .zshrc
-ZSH_BASE=$HOME/dev/dotfiles
+ZSH_BASE=$HOME/dotfiles
 
 source $ZSH_BASE/antigen/antigen.zsh # Load Antigen
 

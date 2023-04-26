@@ -1,7 +1,7 @@
 require('nvim-tree').setup{}
 require('lualine').setup{}
 
-local lsp_servers = { 'clangd', 'gopls', 'rust_analyzer', 'sumneko_lua' }
+local lsp_servers = { 'clangd', 'gopls', 'rust_analyzer', 'lua_ls' }
 
 require('mason').setup{}
 require('mason-lspconfig').setup{
@@ -19,21 +19,8 @@ end
 
 require('plugins/cmp')
 
-require('nvim-treesitter.configs').setup {
-    ensure_installed = { 'c', 'cpp', 'go', 'json', 'lua', 'python', 'rust', 'toml' },
-    highlight = {
-        enable = true,
-    }
-}
-
 -- vimtex
 vim.g.vimtex_view_method = 'zathura'
-
--- THEME
-require('catppuccin').setup{
-    flavour = 'frappe',
-}
-vim.cmd.colorscheme "catppuccin"
 
 -- barbar
 local nvim_tree_events = require('nvim-tree.events')
