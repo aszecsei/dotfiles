@@ -1,2 +1,3 @@
 PATH=${PATH}:~/.cargo/bin
 PATH=$PATH:/home/aszecsei/.local/bin
+PATH=$PATH:/usr/local/texlive/2023/bin/x86_64-linux

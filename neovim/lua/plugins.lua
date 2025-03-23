@@ -13,29 +13,33 @@ return {
     -- Highlight, edit, and navigate code
     {
         'nvim-treesitter/nvim-treesitter',
-        opts = {
-            ensure_installed = {
-                "vim",
-                "html",
-                "css",
-                "javascript",
-                "json",
-                "toml",
-                "markdown",
-                "c",
-                "cpp",
-                "bash",
-                "lua",
-                "tsx",
-                "typescript",
-                "go",
-                "rust",
-                "python",
-            },
-            highlight = {
-                enable = true,
-            },
-        },
+        build = ':TSUpdate',
+        config = function ()
+            local configs = require("nvim-treesitter.configs")
+            configs.setup({
+                ensure_installed = {
+                    "vim",
+                    "html",
+                    "css",
+                    "javascript",
+                    "json",
+                    "toml",
+                    "markdown",
+                    "c",
+                    "cpp",
+                    "bash",
+                    "lua",
+                    "tsx",
+                    "typescript",
+                    "go",
+                    "rust",
+                    "python",
+                },
+                sync_install = false,
+                highlight = { enable = true },
+                indent = { enable = true },
+            })
+        end
     },
 
     -- Additional textobjects for treesitter
@@ -64,6 +68,12 @@ return {
             'L3MON4D3/LuaSnip',
             'saadparwaiz1/cmp_luasnip',
         },
+    },
+
+    -- LuaSnip
+    {
+        'L3MON4D3/LuaSnip',
+        version = 'v2.*',
     },
 
     -- LSP icons
